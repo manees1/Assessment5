@@ -1,5 +1,8 @@
 Introduction
 [Link Text] (https://youtu.be/k5E2AVpwsko)
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/your_video_id](https://youtu.be/k5E2AVpwsko)" frameborder="0" allowfullscreen></iframe>
+<iframe width="1038" height="584" src="https://www.youtube.com/embed/k5E2AVpwsko" title="Angular Tutorial for Beginners: Learn Angular &amp; TypeScript" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 The YouTube video is a comprehensive Angular tutorial that covers everything from basics to advanced topics while building an e-commerce application using Angular, Firebase, and Bootstrap. It explains Angular's benefits over JavaScript, introduces Angular's setup, and demonstrates key concepts like components, data binding, services, and dependency injection. The video also touches on advanced topics like routing and unit testing, while emphasizing best practices such as modular code structure and TypeScript fundamentals. The instructor encourages starting with essentials, working on a real project, and exploring advanced topics for a deeper understanding.
 While studying the Angular course, I learned how TypeScript Decorators, like @Component, simplify creating functional Angular components by adding metadata to classes. This improved my understanding of Angular’s architecture and helped me enhance the modularity, reusability, and maintainability of my demo projects.
