@@ -18,11 +18,18 @@ In my blog application for Assignment 2, I identified several areas for improvem
 
 ## Programming Challenges
 I tried FizzBuzz to test the problem solving skills
-I attempted the FizzBuzz problem on HackerRank, where the challenge is to print "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for numbers divisible by both. Using TypeScript, I looped through the numbers from 1 to n and applied conditional checks to determine the correct output. My thinking path involved understanding modulo operations to check divisibility efficiently. This challenge reinforced the importance of control flow in solving problems and highlighted the simplicity and effectiveness of using loops with conditionals to break down complex logic. Through this, I also gained deeper insights into efficient iteration and pattern recognition in coding challenges.
+I attempted the FizzBuzz problem on HackerRank, where the challenge is to print "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for numbers divisible by both. Using TypeScript, I looped through the numbers from 1 to n and applied conditional checks to determine the correct output. My thinking path involved understanding modulo operations to check divisibility efficiently. This challenge reinforced the importance of control flow in solving problems and highlighted the simplicity and effectiveness of using loops with conditionals to break down complex logic. Through this, I also gained deeper insights into efficient iteration and pattern recognition in coding challenges. Below are the screenshots of HackerRank Website where I learned to solve programming challenges.
 
+## Assigned Task as FizzBuzz
 ![1](https://github.com/user-attachments/assets/79646bcb-feed-4ee3-99a4-9d3c3fb3fee4)
+
+## Program Description on left-hand side and editable solution dashboard in right-hand side
 ![2](https://github.com/user-attachments/assets/30afdaad-447f-44a5-a3a8-fafa178eaf7c)
+
+## After Submitting the Solution this website shows the option to view result and test cases.
 ![3](https://github.com/user-attachments/assets/2e4ec8a4-caa4-4156-a7e6-7e5f8678ca7b)
+
+
 
 
 
